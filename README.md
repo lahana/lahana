@@ -18,9 +18,6 @@ _I am very dedicated and thirsty to learn. I feel an immense love for the techno
 ![Jira](https://img.shields.io/badge/jira-%23F24E1E.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Starting to study... 🤓
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Community & Volunteering 🩵
 
